@@ -23,7 +23,7 @@ Use the pin numbers I used in the code or you may see some youtube tutorials on 
 
 https://www.youtube.com/watch?v=-V3oZ2CrwXE - For IR Sensor <br/>
 https://www.youtube.com/watch?v=wq1bM2EpRdI - For Smoke detector Sensor <br/>
-
+Take help of more tutorials of necessary. 
 
 
 Use BreadBoard, it would be easier for you to manage the cables.
